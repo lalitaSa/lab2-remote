@@ -8,8 +8,9 @@
 **Name** : Lalita Sa-ardlua
 <br>
 
+
 > <br>[*<ins>IT @ KMITL*](https://www.it.kmitl.ac.th)<br><br>
 ``` sh
-print("hello world, IT @ KMITL")
+print("Hello world, IT @ KMITL")
 ```
 [![Build Status](https://www.it.kmitl.ac.th/wp-content/themes/itkmitl2017wp/img/nav-thai.svg)](https://www.it.kmitl.ac.th)
