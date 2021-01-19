@@ -8,7 +8,7 @@
 **Name** : Lalita Sa-ardlua
 <br>
 
-> <br>*King mongkut's institute of technology ladkrabang*<br><br>
+> <br>[<ins>*King mongkut's institute of technology ladkrabang*](https://www.kmitl.ac.th)<br><br>
 ``` sh
-print("hello world")
+print("Hello Ladkrabang")
 ```
