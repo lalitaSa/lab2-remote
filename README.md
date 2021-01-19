@@ -8,7 +8,8 @@
 **Name** : Lalita Sa-ardlua
 <br>
 
-> <br>*King mongkut's institute of technology ladkrabang*<br><br>
+> <br>[*<ins>IT @ KMITL*](https://www.it.kmitl.ac.th)<br><br>
 ``` sh
-print("hello world")
+print("hello world, IT @ KMITL")
 ```
+[![Build Status](https://www.it.kmitl.ac.th/wp-content/themes/itkmitl2017wp/img/nav-thai.svg)](https://www.it.kmitl.ac.th)
